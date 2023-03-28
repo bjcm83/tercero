@@ -9,5 +9,5 @@ package com.mycompany.mavenproject3;
  * @author Bart
  */
 public class NewClass {
-    
+    int variable;
 }
